@@ -6,7 +6,7 @@ const Home =()=>{
     return(
         <>
      
-     <Common name=" Grow your Business With" imgsrc={p1} visit="/service" btname="Get strated" content="We Are The Team Of the Devloper Making Website."/>
+     <Common name=" Welcome To" imgsrc={p1} visit="/service" btname="Get strated" content="We Are The Team Of the Devloper Making Website."/>
         </>
     )
 }
